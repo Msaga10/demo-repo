@@ -1,4 +1,4 @@
 # demo-repo
-For Demo to understand 
+For Demo to understand. 
 <br>
 By riz
