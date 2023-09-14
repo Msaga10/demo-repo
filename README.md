@@ -1,4 +1,4 @@
 # demo-repo
-For Demo Only
+For Demo Only.
 <br>
 By riz
