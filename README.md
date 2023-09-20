@@ -1,5 +1,5 @@
 # demo-repo
-For Demo Only
+For Demo
 <br>
 By riz
 
